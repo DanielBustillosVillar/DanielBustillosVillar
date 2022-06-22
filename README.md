@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielBustillosVillar
 - 👀 I’m interested in Web development and language
-- 🌱 I’m currently learning JS and english
+- 🌱 I’m currently learning REACT and english
 - 💞️ I’m looking to collaborate on a project
 
 
